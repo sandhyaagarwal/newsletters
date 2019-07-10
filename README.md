@@ -64,3 +64,5 @@ A list of technical and management related newsletters that I am subscribed to
 31. [Infinite Red](http://reactnative.cc/) (A curated, fun to read newsletter all about React Native)
 
 32. [Programming Digest](https://programmingdigest.net/) (weekly email newsletter that keeps you up to date with the programming world)
+
+33. [ES Next News](http://esnextnews.com/) (The latest in JavaScript and cross-platform tools)
